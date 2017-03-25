@@ -1,0 +1,14 @@
+﻿Build started 28.06.2016 11:33:53.
+     1>Project "D:\Programy\Schrage_z_podzialem\Schrage_z_podzialem\Schrage_z_podzialem.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\programy\schrage_z_podzialem\schrage_z_podzialem\main.cpp(140): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+       Link:
+         D:\Program Files\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programy\Schrage_z_podzialem\Debug\Schrage_z_podzialem.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Programy\Schrage_z_podzialem\Debug\Schrage_z_podzialem.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programy\Schrage_z_podzialem\Debug\Schrage_z_podzialem.lib" /MACHINE:X86 Debug\main.obj
+         Schrage_z_podzialem.vcxproj -> D:\Programy\Schrage_z_podzialem\Debug\Schrage_z_podzialem.exe
+     1>Done Building Project "D:\Programy\Schrage_z_podzialem\Schrage_z_podzialem\Schrage_z_podzialem.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.34
